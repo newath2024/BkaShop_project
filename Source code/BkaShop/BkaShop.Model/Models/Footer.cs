@@ -8,10 +8,10 @@ namespace BkaShop.Model
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)] //ID sẽ tự tăng
-
+        [MaxLength(50)]
         public string ID { set; get; }
 
-        [Required]
+        [Required] // không cho phép null
         public string Content { set; get; }
     }
 }
