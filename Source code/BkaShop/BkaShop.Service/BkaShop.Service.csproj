@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BkaShop.Common\BkaShop.Common.csproj" />
+    <ProjectReference Include="..\BkaShop.Data\BkaShop.Data.csproj" />
+    <ProjectReference Include="..\BkaShop.Model\BkaShop.Model.csproj" />
+  </ItemGroup>
+
+</Project>

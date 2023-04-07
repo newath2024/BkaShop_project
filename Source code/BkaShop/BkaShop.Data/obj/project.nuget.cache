@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lar49oUEXDmkZRp4ocGrfav1PQT0njO/jS8l39GPXtYP4ojPskJpyfoRmWm3su4B449LahpdE8TLfp2Un92cFg==",
+  "success": true,
+  "projectFilePath": "D:\\BkaShop_project\\Source code\\BkaShop\\BkaShop.Data\\BkaShop.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
